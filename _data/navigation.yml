@@ -1,13 +1,13 @@
-- title: Start
+- title: Hem
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Ultimate
+  url: "/ultimate/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Landslag"
+  url: "/landslag/"
   side: left
   dropdown:
   - title: "Grid & Colors"
@@ -31,8 +31,8 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: "Hall of fame"
+  url: "/hall_of_fame/"
   side: left
   dropdown:
   - title: "Header with Full-Width-Image"
@@ -50,8 +50,8 @@
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
 
-- title: Documentation
-  url: "/documentation/"
+- title: "Tävling"
+  url: "/tavling/"
   side: left
   dropdown:
   - title: "Changelog"
@@ -59,17 +59,21 @@
   - title: "Roadmap"
     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
+- title: "Förening"
+  url: "/förening/"
   side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
+- title: "Svenska Ultimateförbundet"
+  url: "/svenska_ultimateforbundet/"
+  side: left
+
+- title: "Sök"
+  url: "/sok/"
   side: right
 
-- title: "Contact"
-  url: "/contact/"
+- title: "Kontakt"
+  url: "/kontakt/"
   side: right
