@@ -5,6 +5,25 @@
 - title: Ultimate
   url: "/ultimate/"
   side: left
+  dropdown:
+  - title: "Ultimate Sweden Superstars"
+    url: "/ultimate/ultimate_sweden_superstars/"
+  - title: "Livestream och matcharkiv"
+    url: "/ultimate/livestream_och_matcharkiv/"
+  - title: "Ultimate Sweden sociala medier"
+    url: "/ultimate/ultimate_sweden_sociala_medier/"
+  - title: "Svensk ultimate i traditionell media"
+    url: "/ultimate/svens_ultimate_i_traditionell_media/"
+  - title: "Bildmaterial"
+    url: "/ultimate/bildmaterial/"
+  - title: "Vad är ultimate?"
+    url: "/ultimate/vad_ar_ultimate/"
+  - title: "Fairplay"
+    url: "/ultimate/fairplay/"
+  - title: "Ultimate i skolan"
+    url: "/ultimate/ultimate_i_skolan/"
+  - title: "Hej förälder!"
+   
 
 - title: "Landslag"
   url: "/landslag/"
