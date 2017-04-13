@@ -16,7 +16,7 @@ tags:
 header: no
 header:
     image_fullwidth:
-    image:
+    image: "/bild_1.jpeg/"
     pattern:
     color:
     background-color: "#fabb00"   # You must use ""
