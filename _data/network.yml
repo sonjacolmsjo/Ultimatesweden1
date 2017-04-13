@@ -1,37 +1,31 @@
 - menu_name: "Sitemap"
 
 - name: "Hem"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/"
-  class: "sitemap-link"
-  title: "Using Backstretch by Scott Robbin"
+  url: "/Ultimatesweden1/"
+  title: "Hem"
 
 - name: "Ultimate"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/ultimate/"
-  class: "network-entypo"
+  url: "/ultimate/"
   title: "Ultimate"
 
 - name: "Landslag"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/landslag/"
-  class: "services-newsletter"
+  url: "/landslag/"
   title: "Landslag"
 
 - name: "Hall Of Fame"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/hall_of_fame/"
-  class: "rss-link"
+  url: "/hall_of_fame/"
   title: "Hall Of Fame"
 
 - name: "Tävling"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/tavling/"
-  class: "sitemap-link"
+  url: "/tavling/"
   title: "Tävling"
   
 - name: "Förening"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/forening/"
-  class: "sitemap-link"
+  url: "/forening/"
   title: "Förening"
   
 - name: "Svenska Ultimateförbundet"
-  url: "https://sonjacolmsjo.github.io/Ultimatesweden1/svenska_ultimateforbundet/"
+  url: "/svenska_ultimateforbundet/"
   title: "Svenska Ultimateförbundet"
 
 
