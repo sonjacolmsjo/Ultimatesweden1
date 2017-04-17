@@ -4,7 +4,7 @@ title: "Sök"
 subheadline:
 teaser:
 header:
-   image_fullwidth: "header_sok.jpg"
+   image_fullwidth: ""
 permalink: "/sok/"
 ---
 
