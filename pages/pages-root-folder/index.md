@@ -6,7 +6,7 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: "header.jpg"
+  image_fullwidth: "header_hem.jpg"
 widget1:
   title: "Blog & Portfolio"
   url: 'http://sonjacolmsjo.github.io/feeling-responsive/blog/'
