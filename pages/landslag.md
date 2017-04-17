@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Landslag"
-subheadline: 
+subheadline:
 teaser:
 header:
-   image_fullwidth: "header_roadmap_3.jpg"
+   image_fullwidth: "header_landslag.jpg"
 permalink: "/landslag/"
 ---
 
