@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Roadmap"
-subheadline: "ToDo-List &amp; Ideas"
-teaser: "Here are some ideas and features I want to implement in the future."
+title: "Landslag"
+subheadline: 
+teaser:
 header:
    image_fullwidth: "header_roadmap_3.jpg"
-permalink: "/roadmap/"
+permalink: "/landslag/"
 ---
 
 ## Ideas and possible new features

@@ -2,9 +2,9 @@
 layout: page
 show_meta: false
 title: "Ultimate"
-subheadline: 
+subheadline:
 header:
-   image_fullwidth: "hem.jpeg"
+   image_fullwidth: "bild_3.jpg"
 permalink: "/ultimate/"
 ---
 <ul>
