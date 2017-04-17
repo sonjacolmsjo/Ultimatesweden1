@@ -1,11 +1,11 @@
 ---
 layout: page
 show_meta: false
-title: "Style your content!"
-subheadline: "Layouts of Feeling Responsive"
+title: "Ultimate"
+subheadline: 
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
-permalink: "/design/"
+   image_fullwidth: "hem.jpeg"
+permalink: "/ultimate/"
 ---
 <ul>
     {% for post in site.categories.design %}
