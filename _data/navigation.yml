@@ -6,11 +6,11 @@
   url: "/ultimate/"
   side: left
   dropdown:
-  - title: "Ultimate Sweden Superstars"
+  - title: "Ultimatesweden Superstars"
     url: "/ultimate/superstars/"
   - title: "Livestream och matcharkiv"
     url: "/ultimate/livestream/"
-  - title: "Ultimate Sweden sociala medier"
+  - title: "Ultimatesweden sociala medier"
     url: "/ultimate/sociala_medier/"
   - title: "Svensk ultimate i traditionell media"
     url: "/ultimate/traditionell_media/"
@@ -24,7 +24,7 @@
     url: "/ultimate/skola/"
   - title: "Hej förälder!"
     url: "/ultimate/foraldrar/"
-   
+
 
 - title: "Landslag"
   url: "/landslag/"
@@ -44,7 +44,7 @@
     url: "/landslag/avtal_landslagsverksamheten/"
   - title: "Utvärderingsformulär landslag"
     url: "/landslag/utvarderingsformular/"
-  
+
 
 - title: "Hall of fame"
   url: "/hall_of_fame/"
@@ -54,7 +54,7 @@
     url: "/hall_of_fame/utmarkelser/"
   - title: "Hedersmedlemmar och andra insatser"
     url: "/hall_of_time/hedersmedlemmar/"
-  
+
 - title: "Tävling"
   url: "/tavling/"
   side: left
@@ -79,7 +79,7 @@
     url: "/tavling/tavlingslicens/"
   - title: "Resultat"
     url: "/tavling/resultat/"
-  
+
 
 
 - title: "Förening"
@@ -98,8 +98,8 @@
     url: "/forening/traningsstod/"
   - title: "Skadeförebyggande arbete"
     url: "/forening/skadeförebyggande_arbete/"
-  - title: "Antidoping-plan och medicinska frågor"
-    url: "/forening/antidoping-plan/"
+  - title: "Antidopning-plan och medicinska frågor"
+    url: "/forening/antidopning-plan/"
   - title: "Plan mot match-fixing"
     url: "/forening/match-fixing/"
   - title: "Elitstöd"
@@ -110,7 +110,7 @@
     url: "/forening/bestall_diskar/"
   - title: "Producenter av ultimate-kläder"
     url: "/forening/ultimate-klader/"
-  
+
 
 - title: "Svenska Ultimateförbundet"
   url: "/svenska_ultimateforbundet/"
@@ -154,7 +154,7 @@
     url: "/svenska_ultimateforbundet/webshop/"
   - title: "Samarbetspartners och sponsorer"
     url: "/svenska_ultimateforbundet/sponsorer/"
-  
+
 
 
 
