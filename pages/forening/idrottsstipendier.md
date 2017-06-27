@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "Idrottsstipendier"
-meta_title: "Idrottsstipendier"
+title: "Idrottsstependier"
+meta_title: "Idrottsstependier"
 subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "header_forening.jpg"
-permalink: "/forening/Idrottsstipendier/"
+permalink: "/forening/idrottsstependier/"
 ---

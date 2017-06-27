@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 33 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 36 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/404.html</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/antidopning-plan/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -37,7 +37,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/archive/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -54,7 +54,7 @@
 	<url>
 	<loc>http://localhost:4000/atom.xml</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/bestall_diskar/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/changelog/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/elitstod/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/feed.xml</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/foreningsstod/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/hall_of_fame/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/forening/hitta_forening/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
 	<url>
 	<loc>http://localhost:4000/humans.txt</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -204,9 +204,9 @@
 
 	
 	<url>
-	<loc>http://localhost:4000/forening/Idrottsstipendier/</loc>
+	<loc>http://localhost:4000/forening/idrottsstependier/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +236,22 @@
 	<url>
 	<loc>http://localhost:4000/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/</loc>
+	
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +266,7 @@
 	<url>
 	<loc>http://localhost:4000/kontakt/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +281,22 @@
 	<url>
 	<loc>http://localhost:4000/landslag/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/forening/match-fixing/</loc>
+	
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +311,7 @@
 	<url>
 	<loc>http://localhost:4000/redirect-page/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -296,7 +326,7 @@
 	<url>
 	<loc>http://localhost:4000/robots.txt</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,7 +345,7 @@
 	<url>
 	<loc>http://localhost:4000/sitemap.xml</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,7 +360,7 @@
 	<url>
 	<loc>http://localhost:4000/sok/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -347,7 +377,7 @@
 	<url>
 	<loc>http://localhost:4000/tavling/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -362,7 +392,22 @@
 	<url>
 	<loc>http://localhost:4000/ultimate/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
+	
+	
+		<changefreq>monthly</changefreq>
+	
+	
+		<priority>0.3</priority>
+	
+	</url>
+	
+
+	
+	<url>
+	<loc>http://localhost:4000/forening/ultimate-klader/</loc>
+	
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -377,7 +422,7 @@
 	<url>
 	<loc>http://localhost:4000/svenska_ultimateforbundet/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -392,7 +437,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page2/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -407,7 +452,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page3/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -422,7 +467,7 @@
 	<url>
 	<loc>http://localhost:4000/blog/page4/</loc>
 	
-		<lastmod>2017-06-27T09:19:10+02:00</lastmod>
+		<lastmod>2017-06-27T09:49:43+02:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>

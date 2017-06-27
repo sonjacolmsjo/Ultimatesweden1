@@ -1,6 +1,6 @@
 # Sonja anteckningar
 
-Starta jekyll lokalt i kommandotolken: `bundle exec jekyll serve`
+Starta jekyll lokalt i kommandotolken: `bundle exec jekyll serve --config _config.yml,_config_dev.yml `
 
 
 
