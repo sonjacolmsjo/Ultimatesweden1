@@ -24,10 +24,11 @@ author: Ultimate Sweden
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-#url: 'https://sonjacolmsjo.github.io'
-#baseurl: '/Ultimatesweden1'
-url: 'http://127.0.0.1:4000'
-baseurl: '/'
+url: 'https://sonjacolmsjo.github.io'
+baseurl: '/Ultimatesweden1'
+
+#url: 'http://127.0.0.1:4000'
+#baseurl: '/'
 
 
 # This is for the editing function in _/includes/improve_content
@@ -40,8 +41,8 @@ improve_content:
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-#urlimg: 'https://sonjacolmsjo.github.io/Ultimatesweden1/images/'
-urlimg: 'http://127.0.0.1:4000/images/'
+urlimg: 'https://sonjacolmsjo.github.io/Ultimatesweden1/images/'
+#urlimg: 'http://127.0.0.1:4000/images/'
 
 
 # Logo size is 600x80 pixels
