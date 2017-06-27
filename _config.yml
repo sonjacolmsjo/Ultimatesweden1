@@ -14,10 +14,13 @@ title: 'Ultimate Sweden'
 slogan: 'Ultimate Frisbee - mer än en sport'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Ultimate Swedens hemsida'
+description: 'Ultimate Frisbee - mer än en sport'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits:
+credits: '<p>Created by Sonja Colmsjö based on the theme <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.</p>'
+
+
+
 # Main author of the website
 # See > authors.yml
 author: Ultimate Sweden
