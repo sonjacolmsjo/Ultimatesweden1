@@ -1,9 +1,10 @@
 ---
 layout: page
-title: "Hall Of Fame"
-subheadline:
-teaser:
-permalink: "/hall_of_fame/"
+title: "Hall of fame"
+meta_title: "Hall of fame"
+subheadline: ""
+teaser: ""
 header:
-    image_fullwidth: "header_fame.jpg"
+   image_fullwidth: "header_fame.jpg"
+permalink: "/hall_of_fame/"
 ---

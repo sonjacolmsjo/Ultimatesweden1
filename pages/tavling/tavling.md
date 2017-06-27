@@ -1,9 +1,10 @@
 ---
 layout: page
-subheadline:
 title: "Tävling"
-teaser:
+meta_title: "Tävling"
+subheadline: ""
+teaser: ""
 header:
    image_fullwidth: "header_tavling.jpg"
-permalink: "/tavling/"
+permalink: "/tavlning/"
 ---

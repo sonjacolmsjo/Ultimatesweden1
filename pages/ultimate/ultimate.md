@@ -1,8 +1,9 @@
 ---
 layout: page
-show_meta: false
 title: "Ultimate"
-subheadline:
+meta_title: "Ultimate"
+subheadline: ""
+teaser: ""
 header:
    image_fullwidth: "header_ultimate.jpg"
 permalink: "/ultimate/"

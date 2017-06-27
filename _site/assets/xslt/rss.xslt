@@ -301,7 +301,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/landslag/landslagsorginisationen/">Landslagsorganisationen</a></li>
+                      <li><a  href="http://localhost:4000/landslag/landslagsorganisationen/">Landslagsorganisationen</a></li>
                     
 
                       
@@ -347,7 +347,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/hall_of_time/hedersmedlemmar/">Hedersmedlemmar och andra insatser</a></li>
+                      <li><a  href="http://localhost:4000/hall_of_fame/hedersmedlemmar/">Hedersmedlemmar och andra insatser</a></li>
                     
                   </ul>
 
@@ -393,7 +393,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/tavling/eucr_och_eufc/">Europeiska mästerskapsserien EUCR och EUCF</a></li>
+                      <li><a  href="http://localhost:4000/tavling/eucr_och_eucf/">Europeiska mästerskapsserien EUCR och EUCF</a></li>
                     
 
                       
@@ -459,7 +459,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/forerning/utbildning/">Utbildning</a></li>
+                      <li><a  href="http://localhost:4000/forening/utbildning/">Utbildning</a></li>
                     
 
                       
@@ -469,7 +469,7 @@
 
                       
 
-                      <li><a  href="http://localhost:4000/forening/skadeförebyggande_arbete/">Skadeförebyggande arbete</a></li>
+                      <li><a  href="http://localhost:4000/forening/skadeforebyggande_arbete/">Skadeförebyggande arbete</a></li>
                     
 
                       
