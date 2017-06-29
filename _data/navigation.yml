@@ -157,11 +157,6 @@
 
 
 
-
-- title: "Sök"
-  url: "/sok/"
-  side: right
-
 - title: "Kontakt"
   url: "/kontakt/"
   side: right
