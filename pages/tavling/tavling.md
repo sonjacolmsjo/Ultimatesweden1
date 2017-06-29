@@ -6,5 +6,5 @@ subheadline: ""
 teaser: ""
 header:
    image_fullwidth: "header_tavling.jpg"
-permalink: "/tavlning/"
+permalink: "/tavling/"
 ---
